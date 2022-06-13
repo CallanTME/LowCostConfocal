@@ -7,7 +7,13 @@ Confocal microscopy is an advanced microscopy technique that provides high contr
 ![image](/LowCostConfocal/Source Pics/CurrentSystem.jpg)
 
 ### Current Results
+1. A Square scanned onto the focal plane (A) and then rescanned onto the image plane (B) with some noise as no pinhole is in use.
 
+![image](/LowCostConfocal/Source Pics/TwoScannedSquare.png)
+
+2. Images acquired with a camera using the microscope while scanning a square. (A) No pinhole with mirror in focal plane, (B) Pinhole with mirror in focal plane, (C) No pinhole with scattering target in focal plane, (D) Pinhole with scattering target in focal plane
+
+![image](/LowCostConfocal/Source Pics/CameraResults.jpg)
 
 ## Instructions
 
