@@ -4,6 +4,8 @@ Confocal microscopy is an advanced microscopy technique that provides high contr
 
 ### The System
 
+![image](/LowCostConfocal/Source Pics/CurrentSystem.jpg)
+
 ### Current Results
 
 
