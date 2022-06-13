@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Introduction
 
-You can use the [editor on GitHub](https://github.com/CallanTME/LowCostConfocal/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Confocal microscopy is an advanced microscopy technique that provides high contrast imaging and allows optical sectioning and 3D imaging. The prohibitive cost of commerical systems has led to the technique being inaccessible for education, in developing countries and to labs on a low budget. This project aims to create a functional confocal microscope system at a low-cost by using 3D-printing and inexpensive off the shelf components. The system will be completely adjustable with 3D printed flexure stages to position optical components. The current design costs £1570 and has shown promising results.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### The System
 
-### Markdown
+### Current Results
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Instructions
 
-# Header 1
-## Header 2
-### Header 3
+Everything needed to duplicate the work done in this project is available in the repository.
 
-- Bulleted
-- List
+### Enclosure
 
-1. Numbered
-2. List
+The whole enclosure is 3D printed. All parts are available as .stl for ease of printing as well as Inventor parts (.ipt) for ease of adjustment. Reference the BOM for the quantity of each part needed.
 
-**Bold** and _Italic_ and `Code` text
+### Mirror Control
 
-[Link](url) and ![Image](src)
-```
+The control circuit schematic is available in the repository. The mirrors need at +/-5V differential signal. More information can be found on the eBay page through the link in the BOM.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Optics and Other Components
 
-### Jekyll Themes
+Links to buy all components are available in the BOM
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CallanTME/LowCostConfocal/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Future work
+1. Z-axis pinhole adjustment for ease of alignment
+2. Custom PCB to make control circuit implementation simpler
+3. Custom printed kinematic mounts to further reduce cost
+4. etc...
